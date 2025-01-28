@@ -3,7 +3,6 @@ SELECT faa
         ,name
         ,city
         ,country
-        ,region
         ,lat
         ,lon
         ,alt
